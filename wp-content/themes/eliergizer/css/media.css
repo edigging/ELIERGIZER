@@ -1,0 +1,654 @@
+
+/**************************************************MEDIA REQUEST****************************************************************************/
+@media screen and (min-width:1025px) and (max-width:1200px) {
+  .header {    max-width: 990px !important;}
+  .footer, .wrap {    max-width: 990px !important;}
+  .footer  .secondary-navigation .menu  { width: 54%!important;margin-bottom: 10px!important;}
+  .footer  .secondary-navigation .menu  li{margin-bottom: 16px!important;margin-left: 2%;}
+  .footer  .secondary-navigation .menu  li:first-child{margin-left: 0;}
+  .footer  .secondary-navigation .menu  li:nth-child(4){margin-left: 0!important;}
+  .col-full {
+    margin-left: 0.617924em !important;
+    margin-right: 0.617924em !important;
+    padding: 0;
+    max-width: 100% !important;
+}
+
+/****************************bdklab**************/
+.mainBdkWrapper {    max-width: 990px!important;}
+.mainBdkWrapper .content { max-width: 650px!important;}
+.mainBdkWrapper .content .topImg {max-width: 650px!important;}
+.mainBdkWrapper .sidebar { max-width: 314px!important;}
+.mainBdkWrapper.sidebar .topImg {max-width: 314px!important;}
+.mainBdkWrapper .sidebar .sideInner img {max-width: 290px!important;}
+.mainBdkWrapper.sideInner { padding-left: 12px!important;}
+.mainBdkWrapper .sideInner a.catDownload { display: block!important; text-align: center!important; margin-bottom: 10px!important;}
+.mainBdkWrapper .sideInner h2 { margin-bottom: 8px!important;}
+/****************************contact**************/
+.contactInfoWrapper { max-width: 990px!important;}
+.contactInfoWrapper ul li {margin-left: 15px!important;}
+.contactInfoWrapper .contactBlock1, .contactInfoWrapper .contactBlock2{min-height: 420px!important;background: #eaeaea!important; padding: 20px 0 0 7px!important;}
+.contactInfoWrapper .contactBlock3 p { margin-bottom: 24px!important;   width: 98%!important;}
+.contactInfoWrapper .contactBlock3 {padding: 16px 0 0 7px!important; min-height: 425px!important;}
+.shopWrapper { max-width: 990px!important;text-align: center!important;}
+.shopWrapper .shopPlace .togglebox1 {text-align: left!important;}
+.shopWrapper .levelingRight { margin-right: 0px!important; }
+/******************Private Cabinet**************/
+.deliveryInfoWrapper {    max-width: 990px!important;}
+.deliveryInfoWrapper .userData { max-width: 400px!important;}
+.userData ul li:first-child { width: 37.5%!important;}
+.deliveryInfoWrapper  .deliveryData {    max-width: 450px!important;}
+.deliveryData .devUl> li {display: inline-block!important; width: 100%!important;margin-left: 0px!important;}
+.deliveryData .devUl .postData {  width: 93%!important;margin-bottom: 6px!important;}
+.countryDeliv .jq-selectbox__select { width: 98%!important;}
+.deliveryData .devUl li .countryDeliv .jq-selectbox__select { width: 419Px!important;}
+.deliveryInfoWrapper .userData ul { margin-bottom: 136px!important; margin-top: 50px!important;}
+.deliveryInfoWrapper .historyOrder { margin-top: 22px!important; width: 93.5%!important;}
+.historyOrder ul li .historyElemenPrice {left: 64%!important;}
+/******************News**************/
+ul.loop-news, ul.loop-otzyv {    max-width: 990px !important;margin: 0 auto;}
+.newsWrapper .bottomNav { width: 100%!important; text-align: center!important;}
+.loop-post-content { width: 80% !important; }
+.loop-post-img {    float: left;}
+/***********publications*****************/
+.publicationsWrapper {max-width: 990px!important;}
+.publicationsWrapper ul { margin-bottom: 34px!important; width: 88%!important;margin: 0 auto!important;}
+.publicationsWrapper ul li:first-child {margin-left: 0%!important;}
+.publicationsWrapper ul li {display: inline-block!important;width: 48%!important;max-width: 450px !important; margin-left: 0%!important; }
+/***********about us*****************/
+.aboutInfoWrapper { max-width: 990px!important;}
+.aboutInfoWrapper ul li {display: block!important; width: 100%!important;  margin-left: 0!important; vertical-align: top!important;margin-top: 22px!important;}
+.aboutInfoWrapper ul li:first-child {margin-top: 0!important;}
+.aboutInfoWrapper .aboutElement { width: 100%!important;min-height: 0!important;overflow: hidden!important;}
+.aboutInfoWrapper .aboutElement img { width: 43%!important; margin-right: 35px!important;  float: left!important;}
+.scienceFact, .scienceFact, .achievementsWrapper { max-width: 990px!important;}
+.scienceFact .factCaption {  width: 100%!important;  margin: 0 auto!important;text-align: center!important;}
+.scienceFact ul li {display: inline-block!important; width: 30.5%!important;}
+.scienceFact .view { width: 280px!important; height: 200px!important;}
+.scienceFact .effect img { max-width: 300px!important;}
+.scienceFact .view a.fancyImg {width: 279px!important;    height: 200px!important;}
+.scienceFact  .effect:hover a.fancyImg {transform: translateY(-195px)!important;}
+.achievementsWrapper .factCaption {width: 100%!important;text-align: center!important;}
+.achievementsWrapper ul li {width: 24%!important;  margin-left: 0.5%!important;}
+.aboutInfoWrapper .aboutElement h2 {    display: inline-block;}
+/***********about business*****************/
+.businessWrapper {  max-width: 990px!important;}
+.businessWrapper h2 { text-align: center!important;margin-left: 0!important;}
+.modelBlock .factCaption, .cooperation .factCaption  { width: 100%!important;text-align: center!important;}
+.modelBlock ul li, .coop > li, .gratitudeWrapper ul li { width: 48%!important;}
+.coop li img { max-width: 475px!important;}
+.coop >li {  min-height: 1010px!important;}
+/****************charity****************/
+.charityWrapper , .gratitudeWrapper{ max-width: 990px!important;  margin: 0 auto!important;}
+.charityWrapper > ul > li {  width: 31.3%!important;}
+.charityWrapper > ul > li img {width: 100%!important;}
+.weHelpWrapper .factCaption , .gratitudeWrapper .factCaption { width: 100%!important;text-align: center!important;}
+.weHelpWrapper .factCaption img, .gratitudeWrapper .factCaption img {display: none!important;}
+.weHelpWrapper { max-width: 990px!important;}
+.weHelpWrapper .flexslider2 {   max-width: 880px!important;}
+/****************history****************/
+.historyWrapper {    max-width: 990px!important;}
+.historyWrapper .content { width: 600px!important;}
+.opininionsWrapper .factCaption { width: 100%!important;text-align: center!important;}
+.opininionsWrapper .factCaption img {display: none!important;}
+.opininionsWrapper {    max-width: 990px;}
+iframe {    max-width: 100%;}
+.opininionsWrapper ul li {width: 47% !important;  margin-left: 3%;}
+/*.opininionsWrapper ul li:first-child {margin-left: 0 ;}*/
+/*********************page news************************/
+.pageWrapper { max-width: 990px!important;}
+/****************reviews*******************/
+.reviewsElement p.date2 {width: 65%!important; vertical-align: top!important;}
+/****************order*************/
+.orderWrapper {max-width: 990px!important;}
+.orderWrapper .content { max-width: 72%!important;    left: -10px!important;}
+.content .infoUser .name { max-width: 100%!important;  width: 90%!important;}
+.orderInfo .content .infoUser { padding-left: 20px!important;}
+.orderWrapper .content h2 {  margin-left: 20px!important;}
+.orderPrice .content .delivery { padding: 32px 0 24px 20px!important;}
+.orderPrice .content .cash {padding: 25px 0 32px 20px!important;}
+/********************bdk product*********************/
+.productWrapper {    max-width: 990px!important;}
+.productWrapper .content { max-width: 70%!important; float: right!important;  width: 100%!important;}
+/************productPage*******************/
+.productWrapper .content2 { max-width: 70%!important;}
+.content2 .productBigImg { display: block!important; width: 90%!important;margin: 0 auto!important;}
+.productPriceInfo { float: none!important; width: 100%!important;  margin: 20px auto!important;}
+.productPriceInfo .productPrice { margin: 45px 0 32px!important;}
+.productInfo {    padding: 35px 0 35px!important;}
+.content2 p.shadowCaption{display: block!important;margin-bottom: 20px!important;}
+.productWrapper .single-image-wrapp { width: 100%; float: none;  margin: 0 auto 20px;}
+.woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary {
+    float: none !important;   width: 100% !important;   padding-left: 15px !important;    max-width: 96% !important;}
+ .productWrapper  form.cart .button { float: none !important;margin-left: 55px !important;}
+.productWrapper  form.cart .button:hover { border-color: #c298a2 !important; color: #c298a2 !important;}
+
+
+}
+
+@media screen and (max-width:1024px) {
+  
+input#place_order {
+    font-size: 14px;
+}
+.header, .footer, .wrap {  max-width: 724px!important;}
+.topMenu{max-width: 745px!important;display:block!important;    margin:0 auto 0!important;}
+  .menu li a{    padding: 0px 9px 0!important;}
+  .footer  .secondary-navigation .menu  { width: 54%!important;margin-bottom: 10px!important;}
+  .footer  .secondary-navigation .menu li {   margin-left: 3%!important;    margin-bottom: 16px!important;}
+  .footer  .secondary-navigation .menu li:nth-child(4){margin-left: 3%!important;}
+  .footer  .secondary-navigation .menu li:nth-child(1), .footer  .secondary-navigation .menu li:nth-child(3), .footer .secondary-navigation .menu li:nth-child(5){margin-left: 0!important;}
+
+  .col-full { margin-left: 0.617924em !important; margin-right: 0.617924em !important;  padding: 0;  max-width: 100% !important;}
+  .sliderWrapper .flexslider .slides img {height: 470px!important;}
+  .sliderWrapper  .flex-control-nav { max-width: 100%!important; position: absolute!important; bottom: 8%!important; right: 5%!important;  z-index: 100!important;  display: none!important;}
+  .main-navigation ul.menu ul.sub-menu li a { padding: 5px 5px 5px 29px !important;}
+  .main-navigation ul.menu ul.sub-menu li:hover::before { top: 2px !important;}
+  .main-navigation ul.menu ul.sub-menu { width: 294px ! important;}
+  #metaslider_45 .flex-control-nav {display: none;}
+/****************************bdklab**************/
+.mainBdkWrapper {    max-width: 724px!important;}
+.mainBdkWrapper .content { max-width: 100%!important;}
+.mainBdkWrapper .content .topImg {max-width: 100%!important;}
+.mainBdkWrapper .sidebar { max-width: 100%!important;float: none!important;    margin-top: 29px!important;}
+.mainBdkWrapper .sidebar .topImg {display: none!important;}
+.mainBdkWrapper .sidebar .sideInner {max-width: 357px!important;width: 100%; padding-left: 16px!important;display: inline-block!important;float: left!important;margin-right: 13px!important;}
+.mainBdkWrapper .sideInner a.catDownload {display: inline-block!important;margin-bottom: 0px!important;}
+.mainBdkWrapper .sidebar .sideInner img { max-width: 328px!important;}
+.mainBdkWrapper .sideInner h2 {margin-bottom: 25px!important;}
+.mainBdkWrapper .sidebar .sideInner img { max-width: 323px!important;}
+.mainBdkWrapper .sidebar a.boldButt{display: inline-block!important;margin-top: 0!important; margin-bottom: 13px!important; width: 48%!important;}
+.mainBdkWrapper .content .contentInner { padding-left: 16px!important;}
+.mainBdkWrapper .sideInner a.catDownload { right: 20px !important;}
+/****************************contact**************/
+.contactInfoWrapper { max-width: 724px!important;    padding-bottom: 0!important;}
+.contactInfoWrapper ul li { margin-left: 24px!important; width: 48%!important;}
+.contactInfoWrapper ul li:first-child { margin-left: 0!important; width: 48%!important;}
+.contactInfoWrapper .contactBlock1, .contactInfoWrapper .contactBlock2{min-height: 400px!important;background: #eaeaea!important; padding: 20px 0 0 20px!important;}
+.contactInfoWrapper ul li:nth-child(3){width: 100%!important;margin-left: 0!important;margin-top: 22px!important;}
+.contactInfoWrapper .contactBlock3 {padding: 16px 0 0 20px!important; min-height: 425px!important;min-height: 280px!important;}
+.contactFormWrapper .contactForm {  width: 724px!important;}
+.contactForm form .name, .contactForm form .mail, .contactForm form .theme, .contactForm form textarea {  width: 96%!important;}
+.shopWrapper { max-width: 724px!important; text-align: center!important;padding-top: 48px!important;    padding-bottom: 35px!important;}
+.shopWrapper .shopPlace {    display:block!important;}
+.shopPlace .placeName {display: block!important;width: 687px!important;}
+.shopWrapper .shopPlace .togglebox1 {width: 94.9%!important;text-align: left;}
+.contactForm .boldButt { padding: 9px 28px!important;}
+.contactInfoWrapper .contactBlock3 h2 {letter-spacing: 0.25px!important; margin-bottom: 31px!important; font-family: 'Roboto'!important;  font-weight: 300!important;}
+/******************Private Cabinet**************/
+.deliveryInfoWrapper { max-width: 724px!important;    margin: 0 auto 50px!important;}
+.deliveryInfoWrapper .userData, .deliveryInfoWrapper .deliveryData { max-width: 92%!important;    float: none!important;}
+.deliveryInfoWrapper .userData ul { margin-bottom: 136px!important; margin-top: 0px!important; margin: 0 auto 58px!important;}
+.userData ul li:first-child { width: 14.5%!important;}
+.deliveryInfoWrapper .userData ul { margin-bottom: 60px!important; margin-top: 0px!important;}
+ .deliveryInfoWrapper .deliveryData {margin-top: 23px!important;}
+ .countryDeliv .jq-selectbox__select {  width: 102.5%!important;}
+ .deliveryData .devUl> li { display: inline-block!important;width: 47%!important; margin-left: 22px!important;}
+ .deliveryData .devUl li .countryDeliv .jq-selectbox__select {width: 107%!important;}
+ .deliveryData .devUl .postData {margin-bottom: 6px!important;}
+ .deliveryInfoWrapper .historyOrder {margin-top: 22px!important; width: 92%!important; padding: 29px 20px 10px 35px!important;}
+ .historyOrder ul li .historyElemenPrice { left: 76%!important;}
+
+/******************News**************/
+.newsWrapper {    max-width: 724px!important;}
+/***********publications*****************/
+.publicationsWrapper {max-width: 724px!important;}
+.publicationsWrapper ul { margin-bottom: 34px!important; width: 100%!important;margin: 0 auto!important;}
+.publicationsWrapper .publicElement {  max-width: 340px!important;text-align: left!important;}
+.publicationsWrapper  .view {    max-width: 340px!important;}
+.publicationsWrapper .publicElement img {max-width: 340px!important;}
+.publicationsWrapper .publicElement .view a.fancyImg {width: 340px!important;}
+.publicationsWrapper ul li { text-align: center!important;width: 47% !important;}
+.publicationsWrapper  .publicElement .view {    width: 340px!important;    height: 212px!important;}
+.publicationsWrapper .publicElement a.post { width: 95%!important;}
+.publicationsWrapper .publicElement .effect:hover a.fancyImg { transform: translateY(-222px);}
+/***********about us*****************/
+.aboutInfoWrapper, .scienceFact, .achievementsWrapper { max-width: 724px!important;}
+.aboutInfoWrapper ul li {display: block!important; width: 100%!important;  margin-left: 0!important; vertical-align: top!important;margin-top: 22px!important;}
+.aboutInfoWrapper .aboutElement { width: 100%!important;min-height: 0!important;overflow: hidden!important;}
+.achievementsWrapper .factCaption {  width: 100% !important;}
+.aboutInfoWrapper .aboutElement img {width: 100%!important; max-height: 240px!important;margin-right: 0!important;  float: none!important;}
+.aboutInfoWrapper .aboutElement h2 { line-height: 32px!important; margin: 19px 0 26px 20px!important;}
+.aboutInfoWrapper .aboutElement p {margin-left: 20px!important;width: 96%!important;}
+.scienceFact .view { width: 220px!important; height: 145px!important;}
+.scienceFact .effect img { max-width: 220px!important;}
+.scienceFact .view a.fancyImg {width: 220px!important;    height: 144px!important;}
+.scienceFact  .effect:hover a.fancyImg {transform: translateY(-143px)!important;}
+.scienceFact .effect a.fancyImg {  transform: translateY(-290px) ! important;}
+.achievementsWrapper ul { width: 80%!important; display: block!important;  margin: 20px auto!important;}
+.achievementsWrapper ul li{ width: 47%!important;margin-left: 2%!important;     margin-bottom: 44px!important;}
+.achievementsWrapper ul li:nth-child(odd){margin-left: 0!important;}
+.achievementsWrapper {    padding: 65px 0 0px!important;}
+/***********about business*****************/
+.businessWrapper {  max-width: 724px!important;    padding-top: 17px!important;}
+.franshiz li {  width: 49%!important;    margin-bottom: 20px!important;}
+.modelBlock .factCaption img, .cooperation .factCaption img{display: none!important;}
+.coop >li {  min-height: 0!important; width: 100%!important;  margin-left: 0!important;    margin-bottom: 20px!important;}
+.coop li img {     width: 100%!important;    max-width: 100%!important;    max-height: 222px!important;}
+.businessWrapper h2 {text-align: center!important;   margin-left: 0!important;   margin-bottom: 25px!important;}
+.franshiz {  margin-top: 27px!important;}
+.modelBlock { padding: 72px 0 0!important;}
+.modelBlock ul li a.boldButt { padding: 10px 0px 10px 18px!important;}
+.cooperation {  padding: 53px 0px 20px!important;}
+.coop >li h2 { text-align: left!important;}
+.coop li ul { margin: 0 0 20px 50px!important;}
+.coop >li h3 { margin: 24px 0 25px 28px!important;}
+.cooperation .factCaption, .modelBlock .factCaption { width: 100% !important;}
+.cooperation .factCaption h2, .modelBlock .factCaption h2 { padding-left: 0 !important;}
+/****************charity****************/
+.weHelpWrapper { max-width: 724px!important;}
+.weHelpWrapper .flexslider2 {   max-width: 724px!important;}
+.weHelpWrapper .helpElement { max-width: 200px!important;}
+.weHelpWrapper .helpElement img {max-width: 175px!important;}
+.charityWrapper, .gratitudeWrapper {  max-width: 724px!important;}
+.charityWrapper > ul > li { width: 100%!important;margin-left: 0!important;}
+.charityWrapper > ul > li img { width: 100%!important; max-height: 325px!important;}
+.charityWrapper li h2, .charityWrapper li p {  width: 95%!important;}
+.gratitudeWrapper ul li a.boldButt { padding: 11px 0px 11px 18px!important;}
+/*******************history*************************/
+.historyWrapper .content {  width: 96%!important;  padding-left: 20px!important;  padding-right: 10px!important;min-height: 0!important;    padding-bottom: 0!important;
+               display: block!important;margin: 0px auto 26px!important;max-width: 724px!important;}
+.historyWrapper .sidebar {  float: none!important;   width: 100%!important;min-height: 0!important;padding-bottom: 1px!important;display: block!important;max-width: 724px!important;margin: 0 auto!important;}
+.historyWrapper .sidebar img { border-bottom: 4px #cab4bb solid!important;  width: 100%!important;  max-height: 230px!important;}
+.scienceFact ul li { margin-left: 1.4%!important;}
+.historyWrapper .sidebar p { width: 96%!important;}
+.historyWrapper { padding-bottom: 5px!important;    background: #eaeaea!important;padding-top: 20px!important;}
+.opininionsWrapper {  max-width: 724px!important;}
+.opininionsWrapper ul li { width: 47% !important;  margin-left: 3% !important;}
+.opininionsWrapper ul li:first-child { margin-left: 0 !important;}
+iframe {max-height: 200px!important;}
+/*********************page news************************/
+.site-main-width {width: 80%!important!important;}
+.pageWrapper { max-width: 724px!important;}
+/****************reviews*******************/
+.reviewsWrapper {    max-width: 724px!important;    margin: 0 auto!important;}
+.reviewsElement p.date2 {width: 57%!important; vertical-align: top!important;}
+.bottomNav {width: 100%!important; text-align: center!important;}
+.bottomNav {padding-top: 35px!important; margin-bottom: 40px!important;}
+.scienceWrapper { margin-bottom: 30px!important;}
+/****************order*************/
+.orderWrapper {max-width: 724px!important;}
+.orderWrapper .content { max-width: 62%!important; left: -10px!important;}
+.orderPrice .content .cash .comment {width: 92%!important;}
+.orderWrapper .orderPrice  {position: relative!important;}
+.orderWrapper .orderPrice .content {margin-top: 52px!important;}
+.orderWrapper .orderPrice .content h2 {position: absolute!important;    width: 496px!important;    top: -52px!important;}
+.orderPrice .content .cash {  padding: 25px 0 44px 20px!important;}
+/********************bdk product*********************/
+.productWrapper {    max-width:724px!important;}
+.productWrapper .content { max-width: 65.5%!important; width: 100%!important;}
+.productWrapper .content ul li { display: inline-block!important; width: 48.5%!important;}
+.productWrapper .sidebar { max-width: 235px!important;}
+.productWrapper .content ul li { margin-left: 2%!important;}
+.productWrapper .content ul li:nth-child(odd){margin-left: 0!important;}
+.site-main ul.products li.product { margin-right: 2.3px !important;}
+/*******************product page***********************/
+.productWrapper .content2 { max-width: 64%!important;}
+.content2 .productBigImg { width: 100%!important;height: 412px!important;}
+.content2 p.shadowCaption {  margin-bottom: 17px!important;}
+.productPriceInfo .productPrice {  margin: 38px 0 30px!important;}
+.productInfo .padBot { margin-bottom: 23px!important;}
+.productInfo { padding: 35px 0 34px!important;}
+.content2 .factCaption { margin: 61px 0 32px!important;}
+.productWrapper .content2 ul li {width: 48.5%!important;margin-bottom: 40px!important;margin-left: 2.1%!important;}
+.productWrapper .content2 ul li:nth-child(odd){margin-left: 0!important;}
+.element .productInfo { min-height: 114px!important;border-bottom: 1px #d9d9d9 solid!important; padding-top: 24px!important;padding-bottom: 17px!important;}
+.productWrapper .content2 ul {margin-bottom: 0px!important;padding-bottom: 0px!important;}
+.loop-post-content {max-width: 74%!important;padding-left: 10px!important;padding-right: 10px!important;}
+.productWrapper .single-image-wrapp { width: 100%; float: none;  margin: 0 auto 20px;}
+.woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary {
+           float: none !important;   width: 100% !important;   padding-left: 15px !important;    max-width: 96% !important;}
+.site-main nav.navigation .nav-next a{line-height: 22px !important;}
+.shopWrapper .levelingRight { margin-right: 0 !important;}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+
+  .woocommerce-billing-fields {
+    width: 100%!important;
+}
+.woocommerce-shipping-fields {
+    width: 100%!important;
+}
+.woocommerce-additional-fields {
+    width: 100%!important;
+}
+.woocommerce ul.product_list_widget {
+    width: 100%!important;
+    margin-top: 30px!important;
+}
+p.total {
+    width: 95%!important;
+    bottom: 22px!important;
+}
+li.mini_cart_item span.quantity {
+    width: 85%!important;
+}
+.site-footer {
+    margin-bottom: 60px!important;
+}
+.footer-menu {
+    text-align: center;
+}
+.wrap-soc-but {
+    display: inline-block;
+    float: none!important;
+}
+.site-info {
+    text-align: center;
+    top: 20px;
+}
+#order_review{
+    margin-top: 20px!important;
+    position: relative!important;
+    top: 20px!important;
+    right: 0;
+    width: 100%!important;
+}
+.woocommerce-additional-fields textarea#order_comments {
+    width: 100%!important;
+}
+.shopWrapper ul li:nth-child(even) {
+    margin-left: 0px!important;
+}
+nav#site-navigation{display: none;}
+.header, .footer, .wrap {  max-width: 95%!important;}
+.footer .socialNetwork {float: none!important;margin-bottom: 15px!important;}
+.footer ul.footMenu { width: 310px!important; }
+.topMenu {    max-width: 95%!important;}
+.sliderWrapper .flexslider .slides img { height: 360px!important;}
+/*********************bdk lab****************************/
+.mainBdkWrapper .content .contentInner {padding-left: 16px!important;padding-right: 10px!important;width: 94%!important;}
+.mainBdkWrapper .content .topImg { min-height: 190px!important;}
+.mainBdkWrapper .sidebar .sideInner {width: 100%!important;max-width: 357px !important; margin: 0 auto 20px!important; display: block!important;float: none!important;}
+.mainBdkWrapper .sidebar a.boldButt {width: 340px !important;display: block!important; margin: 0 auto 13px!important;}
+/**************contact********************/
+.contactInfoWrapper ul li { width: 100%!important; margin-left: 0!important;  min-height: 0!important;margin-bottom: 22px!important;}
+.contactInfoWrapper ul li:first-child{width: 100% !important;}
+.contactInfoWrapper .contactBlock1, .contactInfoWrapper .contactBlock2 { min-height: 0px!important; background: #eaeaea!important;  padding: 20px 0 20px 20px!important;}
+.contactInfoWrapper ul li:nth-child(3) { margin-top: 0px!important;}
+.contactInfoWrapper .contactBlock3 { padding: 16px 0 20px 20px!important; min-height: 0px!important;}
+.contactInfoWrapper { max-width: 100%!important; padding-bottom: 0!important;}
+.contactInfoWrapper h2 {margin-left: 20px!important;}
+.contactInfoWrapper .contactBlock3 h2 {margin-left: 0!important;}
+.contactFormWrapper .contactForm { width: 93%!important;}
+.shopPlace .placeName { width: 430px!important;}
+.shopWrapper { max-width: 100%!important;}
+.shopWrapper .shopPlace .togglebox1 {     width: 430px!important; padding: 5px 5px 12px!important;}
+.shopWrapper .shopPlace {  display: inline-block!important;}
+/**************private cab*********/
+.deliveryInfoWrapper { max-width: 100%!important; margin: 0 auto 50px!important;}
+.userData ul li:first-child { width: 19.5%!important;}
+.deliveryInfoWrapper .userData, .deliveryInfoWrapper .deliveryData {max-width: 91.5%!important;margin: 0 auto!important; float: none!important; padding: 18px!important;}
+.deliveryInfoWrapper .deliveryData { margin-top: 23px!important;}
+.countryDeliv .jq-selectbox__select { width: 96%!important;}
+.deliveryData .devUl> li { display: block!important; width: 100%!important;margin-left: 0px!important; }
+.deliveryInfoWrapper .historyOrder { margin: 22px auto 0!important;  width: 92.5%!important;  padding: 29px 20px 10px 10px!important;}
+.historyOrder ul li p {  width: 54%!important;}
+.historyOrder ul li .historyElemenPrice {left: 90%!important;}
+.historyOrder .closeHistory { margin-right: 17px!important; position: relative!important;  top: -28px!important;}
+/***************news********************/
+.newsWrapper { max-width: 95%!important;}
+.news ul.mainNews li img { max-width: 148px!important;    margin-right: 10px!important;}
+.news ul.mainNews li h2 { margin: 5px 0 13px!important;}
+.news ul.mainNews li p.datePub { padding-left: 0!important;  font-size: 14px!important;}
+.news ul.mainNews li p { padding-left: 158px!important;}
+.news ul.mainNews li a.boldButt { width: 170px}
+.news ul.mainNews li {padding: 34px 0px!important;margin-bottom: 0px!important;}
+.loop-news .loop-post-content {max-width: 58%!important;padding-left: 10px!important;padding-right: 10px!important;}
+.loop-otzyv .loop-post-content {max-width: 100%!important;padding-left: 10px!important;padding-right: 10px!important;}
+
+/**************publications*********************/
+.publicationsWrapper { max-width:95%!important;}
+.publicationsWrapper ul li {text-align: center!important; display: block!important;max-width: 100% !important;   width: 100%!important;}
+.publicationsWrapper .publicElement { max-width: 90%!important;max-width: 440px!important;text-align: left!important;}
+.publicationsWrapper .publicElement .view {  max-width: 100%!important; width: 100%!important;  height: 212px!important;}
+.publicationsWrapper .publicElement img { max-width: 100%!important; width: 100%!important;  max-height: 208px!important;}
+.publicationsWrapper .publicElement .view a.fancyImg {  width: 100%!important;}
+/****************about US**********************/
+.aboutInfoWrapper .aboutElement h2 { line-height: 32px!important; margin: 19px 0 26px 15px!important;}
+.aboutInfoWrapper .aboutElement p { margin-left: 15px!important; width: 95%!important;}
+.scienceFact .factCaption img{display: none!important;}
+.scienceFact ul li {  margin-left: 0!important; width: 100%!important; display: block!important;  text-align: center!important;margin-bottom: 20px!important;}
+.scienceFact .publicElement {width: 90%!important; display: inline-block!important;  max-width: 440px!important;}
+.scienceFact .view { width: 100%!important;  height: 145px!important;}
+.scienceFact .effect img { max-width: 100%!important;  width: 100%!important;}
+.scienceFact .view a.fancyImg {    width: 100%!important;  max-width: 428px!important;  height: 133px!important;}
+.scienceFact  .effect a.fancyImg {  transform: translateY(0)!important;}
+.scienceFact  .effect:hover a.fancyImg {     transform: translateY(0)!important; position: absolute!important;  top: 0!important;  left: 0!important;  width: 100%!important;height: 100% !important;}
+.achievementsWrapper ul li { width: 100%!important; margin-left: 0!important; margin-bottom: 44px!important; display: block!important;}
+.achievementsWrapper ul { width: 90%!important; max-width: 440px!important; display: block!important;  margin: 10px auto!important;}
+.scienceWrapper { margin-bottom: 0px!important;padding: 44px 0 30px!important;}
+.aboutInfoWrapper {    padding-bottom: 20px!important;}
+/****************about usbusiness*****************/
+.businessWrapper { max-width: 100%!important;}
+.franshiz li { width: 100%!important; margin-bottom: 0px!important;  display: block!important;}
+.franshiz { margin-top: 27px!important; max-width: 440px!important;margin: 20px auto 0!important;}
+.modelBlock ul li, .coop > li, .gratitudeWrapper ul li {width: 100%!important;display: block!important; margin-left: 0!important;padding-bottom: 15px!important;}
+.modelBlock ul { padding-top: 15px!important; max-width: 440px!important;  margin: 0 auto!important;}
+.franshiz .bigDigit span {  line-height: 140px!important;}
+.coop >li h2 {  margin: 28px 28px 28px 20px!important;}
+.coop >li h3 { margin: 24px 0 25px 20px!important;}
+.coop li ul {  margin: 0 0 20px 28px!important;}
+.coop >li p { margin: 0 0 23px 20px!important;}
+.cooperation { padding: 40px 0px 20px!important;}
+.coop { margin-top: 10px!important;}
+.businessWrapper h2 { font-size: 18px!important;text-align: center!important;}
+.businessWrapper h3 {  font-size: 18px!important;}
+.modelBlock .factCaption h2, .cooperation .factCaption h2 { font-size: 24px!important; text-align: center!important;}
+/******************charity********************/
+.charityWrapper, .gratitudeWrapper { max-width: 100%!important;}
+.charityWrapper li h2 { margin: 24px auto 30px!important;}
+.charityWrapper > ul > li { margin-bottom: 25px!important;}
+.weHelpWrapper .flexslider2 { max-width: 550px!important;}
+.gratitudeWrapper ul {width: 80%!important;max-width: 440px!important;margin: 0 auto!important;}
+.gratitudeWrapper ul li a.boldButt {padding: 11px 11px 11px 18px!important;}
+.gratitudeWrapper ul li:nth-child(4) a.boldButt { padding: 9px 11px 11px 18px!important; position: relative!important;  top: 7px!important;}
+.weHelpWrapper .helpElement img { max-width: 175px!important;}
+/****************history*******************/
+.historyWrapper {    max-width: 100%!important;}
+.historyWrapper .content {     width: 100%!important; padding-left: 0px!important; padding-right: 0px!important;}
+.historyWrapper .sidebar h2, .historyWrapper .sidebar p {  margin-left: 10px!important;}
+.opininionsWrapper ul li { width: 100%!important;margin-left: 0!important;display: block!important;margin-bottom: 20px!important;}
+.opininionsWrapper ul{width: 90%!important;max-width: 440px!important;margin: 0 auto!important;}
+.historyWrapper .content h2, .historyWrapper .sidebar h2 {  margin-left: 2%!important;}
+.historyWrapper .content p, .historyWrapper .sidebar p { margin-left: 2%!important;width: 96.5%!important;}
+/****************page news*************************/
+.pageWrapper { max-width: 95%!important;}
+/**********reviews*************/
+.reviewsWrapper { max-width: 95%!important;  margin: 0 auto!important;}
+.reviewsElement img.mainImg {  display: inline-block!important; margin-right: 8px!important;max-width: 182px!important;    width: 35%!important;}
+.reviewsElement h3 { display: inline-block!important;  vertical-align: top!important;width: 61%!important;}
+.reviewsElement p.date, .reviewsElement p.date2 { margin-right: 8px!important; margin-bottom: 10px!important;}
+.reviewsElement a {display: inline-block!important; width: 100%!important; margin-left: 0!important; margin-top: 15px!important;}
+/*****************order*****************/
+.orderWrapper .content {max-width: 100%!important; left: 0px!important; margin: 0 auto!important;  display: block!important;}
+.orderWrapper .sidebar {    float: none!important; display: block!important;  padding-top: 20px!important; margin-bottom: 84px!important;}
+.orderWrapper { max-width: 95%!important;}
+.orderWrapper .orderPrice { position: relative!important; padding-bottom: 0!important;}
+.orderWrapper .orderPrice .content h2 { max-width: 90%!important;    margin-left: 10px!important;}
+/******************product***********************************/
+.productWrapper {max-width: 95%!important;position: relative!important;}
+.productWrapper .content, .productWrapper .content2 { max-width: 100%!important; width: 100%!important;margin-top: 550px!important;}
+.productWrapper .sidebar {    max-width: 235px!important;position: absolute!important;top: 0!important;margin-left: 3%!important;}
+.productWrapper .content ul li { display: block!important;  width: 100%!important;text-align: center!important;}
+.productWrapper .content ul li .element, .productWrapper .content2 ul li .element  {  max-width: 270px!important;display: inline-block!important;text-align: left!important;}
+/*****************product page*******************/
+.productWrapper .content2 ul li { width: 100%!important; margin-bottom: 40px!important;  margin-left: 0!important;text-align: center!important;margin-bottom: 50px!important;}
+.site-main ul.products li.product { margin-right: 0 !important; margin-left: 0 !important; margin-bottom: 40px !important;}
+
+/***********************MOB MENU********************************/
+.menu{display:none!important;} 
+.mobile-menu{display:inline-block!important;margin-bottom: 22px!important;position: relative!important;right: -93%!important;width: 30px!important;} 
+nav{margin:0!important;background:none!important;} 
+.menu li{display:block!important;margin:0!important;} 
+.menu li:hover{padding-bottom: 0!important;}
+.menu ul li, .menu ul{padding: 0!important;}
+.menu ul li:hover{padding: 0!important;}
+.menu ul li:hover > a {  background:none!important;    color: #4f3b40!important; }
+.menu ul li a {color:#797979!important;}
+
+.menu li a {background:#ffffff!important;color:#000!important;border-top:1px solid #e0e0e0!important;padding: 4px 0 4px 10px!important;} 
+.menu ul li a{padding: 3px 0 3px 20px!important;}
+
+/***************/
+.menu li .parall{-webkit-transform: skew(0deg)!important;
+          -ms-transform: skew(0deg)!important;
+          -o-transform: skew(0deg)!important;
+          transform: skew(0deg)!important;  border-right: 0!important;}
+.menu li .parall>*{ -webkit-transform: skew(0deg)!important;
+                      -ms-transform: skew(0deg)!important;
+                      -o-transform: skew(0deg)!important;
+                      transform: skew(0deg)!important; }
+/**************/
+
+.menu li a:hover, .menu li:hover > a{}
+ 
+/*level 2 and 3 - make same width as all items*/
+.menu ul {display:block!important;position:relative!important;top:0!important;left:0!important;width:100%!important;box-shadow: none!important;} 
+.menu ul ul {left:0!important;} 
+/**********************************END mob-menu***********************************/
+.site-main nav.navigation .nav-next { width: 50% !important;text-align: center !important;}
+.site-main nav.navigation .nav-previous { width: 50% !important;text-align: center !important;}
+
+}/*end media queries*/
+/****************************/
+
+@media screen and (max-width: 550px){
+  .weHelpWrapper .flexslider2 { max-width: 265px!important;}
+ .weHelpWrapper .flexslider2 .flex-control-nav li {  margin: 0 6px 6px!important;  display: inline-block!important;   zoom: 1!important;}
+}
+
+
+
+
+
+
+@media screen and (max-width: 460px) {
+  .header, .footer {  max-width: 95%!important;}
+  .topMenu  {  max-width: 100%!important;}
+  .rightMenu {float: none!important;   margin: 10px auto 0!important;}
+  .topMenuWrapper { max-width: 95%!important;   margin: 0 auto!important;}
+  .logo a { font-size: 42px!important;}
+  .sliderWrapper .flexslider .slides img { height: 260px!important;}
+  .mobile-menu {right: -90%!important;}
+  .footer ul.footMenu { width: 100%!important;}
+  .site-branding div.site-title {margin-top: 25px!important;}
+
+  .loop-news .loop-post-content { max-width: 100%!important;    padding-left: 10px!important;    padding-right: 10px!important;}
+.single-product div.product form.cart .button {float: none !important;  margin-top: 30px !important;}
+.woocommerce-product-details__short-description { overflow: inherit !important;}
+ #metaslider_45 .slides li img{min-height: 180px;}
+/*********************bdk lab********************/
+.mainBdkWrapper .content .topImg { min-height: 120px!important;}
+.mainBdkWrapper .content .contentInner { padding-left: 7px!important; padding-right: 7px!important;  width: 94%!important;}
+.mainBdkWrapper h2 {  font-family: 'Roboto'!important; font-size: 18px!important;  line-height: 20px!important;}
+.mainBdkWrapper .sidebar .sideInner {width: 96%!important;  padding-left: 10px!important;}
+.mainBdkWrapper .sidebar .sideInner img { max-width: 96%!important;}
+.mainBdkWrapper .sidebar a.boldButt {  width: 280px !important;}
+/**************contact********************/
+.contactInfoWrapper h2 {  margin-left: 10px!important;}
+.contactInfoWrapper .contactBlock1, .contactInfoWrapper .contactBlock2 { min-height: 0px!important; background: #eaeaea!important;  padding: 20px 0 20px 10px!important;}
+.contactInfoWrapper .contactBlock3 {padding: 16px 0 20px 10px!important; min-height: 0px!important;}
+.contactForm form .name, .contactForm form .mail, .contactForm form .theme, .contactForm form textarea {  width: 93%!important;  padding-left: 10px!important;}
+.shopPlace .placeName { width: 272px!important;}
+.shopWrapper .shopPlace .togglebox1 { width: 272px!important;    padding: 5px 15px 12px!important;}
+.togglebox1 .block img { float: none!important; margin-top: 10px!important;}
+.togglebox1 .block .timeWork .levelingBot { margin-bottom: 10px!important;}
+/**************private cab*************************/
+.deliveryInfoWrapper .userData, .deliveryInfoWrapper .deliveryData { max-width: 91%!important;float: none!important; padding: 18px 12px!important;margin: 0 auto!important;}
+.deliveryInfoWrapper .deliveryData { margin-top: 23px!important;}
+.userData ul li:first-child { width: 24.5%!important;}
+.countryDeliv .jq-selectbox__select { width: 92%!important;}
+.userData .labelWrapp {display: block!important;margin-bottom: 10px!important;}
+.deliveryInfoWrapper .historyOrder { margin: 22px auto 0!important; width: 93.5%!important; padding: 29px 7px 10px 10px!important;}
+.historyOrder ul li .historyElemenPrice {  left: 30%!important; top: 75px!important;}
+.historyOrder ul li h3 {  margin: 10px 0 55px!important;}
+.historyOrder ul li p { width: 80%!important; display: block!important;}
+.historyOrder .closeHistory { margin-right: 17px!important; position: relative!important; top: -80px!important;}
+/********************news***************/
+.news ul.mainNews li img { max-width: 180px!important; margin: 0 auto 20px!important; float: none!important;}
+.news ul.mainNews li p {padding-left: 0!important;}
+.news ul.mainNews li a.boldButt {display: block!important; margin: 15px auto!important;}
+.newsWrapper {  max-width: 95%!important;}
+/***************about us*****************/
+.scienceFact .effect:hover a.fancyImg {   width: 100%!important;}
+.achievementsWrapper .factCaption img {display: none!important;}
+.aboutInfoWrapper .aboutElement p { margin-left: 10px!important; width: 95%!important;}
+/***********business*****************/
+.franshiz .bigDigit span { line-height: 150px!important;}
+.franshiz .bigDigit p { line-height: 22px!important; width: 98%!important;}
+.franshiz {  width: 95%!important;}
+.modelBlock ul { width: 95%!important;}
+.coop >li h2 { margin: 28px 28px 28px 10px!important;}
+.coop >li h3 { margin: 24px 0 25px 10px!important;}
+.coop li ul { margin: 0 0 20px 14px!important;}
+.coop >li p { margin: 0 0 23px 10px!important;}
+/**************charity*************/
+.weHelpWrapper {padding: 20px 0 10px!important;}
+.gratitudeWrapper ul { width: 95%!important;}
+.weHelpWrapper .helpElement { height: 230px!important;}
+/*****************history********************/
+.historyWrapper .content { width: 100%!important; padding-left: 0px!important;}
+.opininionsWrapper ul { width: 95%!important;}
+/************reviews*****************/
+.reviewsElement img.mainImg { width: 100px!important;}
+.reviewsElement p.date2 {display: inline-block!important;width: 100%!important;margin-top: 15px!important;margin-right: 0!important;margin-left: 0!important;}
+.reviewsElement h3 { margin-bottom: 15px!important;    margin-top: 0!important;  max-width: 63%!important;}
+/***************product page******************/
+.content2 .productBigImg { width: 97%!important;    height: 300px!important;}
+.productBigImg img { max-width: 45%!important;}
+.content2 .factCaption img {display: none!important;}
+.site-main-width {width: 100%!important!important;}
+.loop-post-content {max-width: 100%!important;padding-left: 0px!important!important;padding-right: 0px!important!important;}
+.storefront-handheld-footer-bar {display:none!important!important;}
+
+p.total {
+    left: 11px;
+    padding-left: 10px;
+}
+.head-reg {
+    text-align: center;
+}
+.head-reg .form_cbx {
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+    max-width: 100%!important;
+    position: absolute;
+    top: 33px;
+    left: 0px;
+    background: #f6f6f6;
+}
+.wrap {
+    max-width: 100%!important;
+}
+.loop-post-img {
+    display: block!important;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.loop-post-content a h2 {
+    text-align: center;
+}
+body.single-post header.entry-header h1.entry-title {
+    text-align: center;
+}
+.site-main nav.navigation .nav-next { width: 100% !important;text-align: center !important;}
+.site-main nav.navigation .nav-previous { width: 100% !important;text-align: center !important;}
+
+
+}
